@@ -18,10 +18,9 @@ cmake -B build -DBUILD_SHARED_LIBS=OFF
 cmake --build build --config Release -j 3
 ```
 
-![image](https://github.com/user-attachments/assets/6e3623ec-4cc1-4d0b-a6a7-d0c672ad6257)
+![image](https://github.com/user-attachments/assets/7610d9b8-36cc-4f7b-9d67-f9ad6965942c)
 
-![image](https://github.com/user-attachments/assets/64d7baf3-d0ab-4214-a92d-a14fea7083a1)
-
+![image](https://github.com/user-attachments/assets/2edbc3c4-d014-4e35-ab9f-3f9f386353ad)
 
 .
 
