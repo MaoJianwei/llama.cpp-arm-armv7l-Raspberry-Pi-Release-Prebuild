@@ -1,5 +1,9 @@
 # llama.cpp-arm-armv7l-Raspberry-Pi-Release-Prebuild
 
+**On [the Releases page](https://github.com/MaoJianwei/llama.cpp-arm-armv7l-Raspberry-Pi-Release-Prebuild/releases), you can download pre-built binaries for arm, armv7l and Raspberry pi.**
+
+.
+
 Built on official codes @ [b5736](https://github.com/ggml-org/llama.cpp/releases/tag/b5736) tag.
 
 Built on Respberry Pi 2B, adapt to all devices with **Arm CPU** (objective):
